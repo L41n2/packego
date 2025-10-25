@@ -1,0 +1,5 @@
+{
+  "name": "Pack & Go",
+  "description": "A touch-oriented mobile app experience that allows you to virtually pack a suitcase by dragging and dropping 3D-like items. As you pack, the app automatically generates a detailed checklist of everything inside.",
+  "requestFramePermissions": []
+}
